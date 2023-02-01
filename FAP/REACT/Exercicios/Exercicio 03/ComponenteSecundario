@@ -1,0 +1,10 @@
+function ComponenteSecundario(){
+
+    return(
+        <div>
+            <p>Componente secundario REACT</p>
+        </div>
+    )
+
+}
+export default ComponenteSecundario
