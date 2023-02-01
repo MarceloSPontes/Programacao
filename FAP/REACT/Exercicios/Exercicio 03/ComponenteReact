@@ -1,0 +1,17 @@
+import ComponenteSecundario from "./ComponenteSecundario" 
+
+function ComponenteReact() {
+
+    return (
+        <div>
+            <ComponenteSecundario/>
+            <h2>Componente REACT</h2>
+
+
+        </div>
+    )
+
+}
+
+
+export default ComponenteReact
